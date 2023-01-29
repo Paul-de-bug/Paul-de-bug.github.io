@@ -44,9 +44,7 @@ body {
     margin-bottom:auto;
 }
   /* Body */
-  #content > h1, h2{
-    text-align: center;
-  }
+
   #content > h1 {
    color: #7aaae0;
   }
