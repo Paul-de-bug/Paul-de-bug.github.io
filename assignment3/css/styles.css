@@ -20,6 +20,7 @@ body {
 }
 #nav-list {
     margin-top: 10px;
+    margin-bottom: auto;
   }
   #nav-list a {
     color: #f3bac1;
@@ -41,7 +42,16 @@ body {
   }
   .navbar-toggle collapsed {
     margin-top: auto;
-    margin-bottom:auto;
+    margin-bottom: auto;
+}
+#collapsable-nav li {
+    text-align: center;
+    color: #f3ff49;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+#nav-list {
+    padding-top: 15px;
 }
   /* Body */
 
